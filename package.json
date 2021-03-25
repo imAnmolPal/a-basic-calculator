@@ -1,0 +1,22 @@
+{
+  "name": "a-basic-calculator",
+  "version": "1.0.0",
+  "description": "a basic calculator where computation is done at the server end just to understand basic working of client-server model.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imAnmolPal/a-basic-calculator.git"
+  },
+  "author": "Anmol Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imAnmolPal/a-basic-calculator/issues"
+  },
+  "homepage": "https://github.com/imAnmolPal/a-basic-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
